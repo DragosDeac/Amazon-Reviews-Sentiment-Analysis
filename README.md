@@ -1,7 +1,7 @@
 # Amazon-Reviews-Sentiment-Analysis
 
 Welcome to my project on sentiment analysis of Amazon reviews! 
-This project uses machine learning to determine whether reviews are positive or negative. It's designed to show how we can use modern tools to make sense of large amounts of text data.
+This project uses machine learning to determine whether reviews are positive or negative. It's designed to show how we can use modern tools to make sense of large amounts of text data.     
 
 **Key Features:**
   Sentiment Analysis: Classify Amazon reviews as positive or negative.
